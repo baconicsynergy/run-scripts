@@ -42,7 +42,7 @@ create_boot_directory
 # Generate config
 #
 
-set lx_ip_addr "192.168.1.42"
+#set lx_ip_addr "192.168.1.42"
 
 # write default vimrc file
 set vimrc_fd [open bin/vimrc w]
